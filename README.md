@@ -2,7 +2,7 @@
 
 # Karnak Oza
 
-***🛰️ SAR Analyst | Aerospace Engineer | 🌎 Earth Observation***
+*** Aerospace Engineer | 🛰️ SAR/EO Analyst | Computational Engineering | CAD/CAE & Open-Source Development***
 
 I build automated SAR processing pipelines for environmental monitoring and deformation analysis. My work combines **signal processing, machine learning, and multi-sensor Earth observation** to solve real-world problems - from tracking urban subsidence to detection oil spills at sea.
 
